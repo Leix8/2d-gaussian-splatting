@@ -1,6 +1,7 @@
 *.pyc
 .vscode
 output
+dataset
 build
 data
 *.ply
